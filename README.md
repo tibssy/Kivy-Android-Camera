@@ -1,6 +1,6 @@
 # Kivy-Android-Camera
 
-To Compile it, need to have Android SDK Tools revision 14 or newer.
+To Compile it, need to have Android SDK Tools revision 14 or newer installed.
 To set up enviroment, watch my tutorial video on YouTube:
 https://www.youtube.com/watch?v=c4tuSxSoERY
 
