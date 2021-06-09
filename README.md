@@ -1,7 +1,7 @@
 # Kivy-Android-Camera
 
 To Compile it, need to have Android SDK Tools revision 14 or newer installed.
-To set up enviroment, watch my tutorial video on YouTube:
+To set up enviroment, watch my video tutorial on YouTube:
 https://www.youtube.com/watch?v=c4tuSxSoERY
 
 Made on Ubuntu 20.04 LTS
